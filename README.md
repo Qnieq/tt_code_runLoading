@@ -1,1 +1,3 @@
-# tt_code_runLoading
+# Authorization check page with running hamster
+
+# Страница проверки авторизации с бегущим хомяком
